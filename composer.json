@@ -103,5 +103,8 @@
             "PhpOffice\\PhpSpreadsheetTests\\": "tests/PhpSpreadsheetTests",
             "PhpOffice\\PhpSpreadsheetInfra\\": "infra"
         }
+    },
+    "replace": {
+        "phpoffice/phpspreadsheet":"1.18",
     }
 }
