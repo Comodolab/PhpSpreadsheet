@@ -1,5 +1,5 @@
 {
-    "name": "phpoffice/phpspreadsheet",
+    "name": "comodolab/spreadsheet",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": [
         "PHP",
